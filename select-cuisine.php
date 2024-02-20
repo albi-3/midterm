@@ -5,7 +5,7 @@
 </head>
 <body>
     <form method="post" action="foods.php">
-        <label for="Cuisine">Cuisine: *</label>
+        <label for="cuisine">Cuisine: *</label>
         <select name="name" id="name" required>
             <?php
             // connect
